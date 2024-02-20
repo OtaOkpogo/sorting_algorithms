@@ -14,11 +14,9 @@ What is the time complexity of indexing, inserting and removing from common data
 Sorting Algorithms Animations
 Sorting Algorithms BigPicture
 algoritmos de ordenamiento
-ALGORITMOS - METODOS DE ORDENAMIENTO
-¿Qué es la complejidad algorítmica y con qué se come?
+
 Big O notation
-Análisis de la complejidad de los algoritmos
-Rendimiento de algoritmos y notación Big-O
+
 Big-O is easy to calculate, if you know how
 8 time complexities that every programmer should know
 Learning Objectives:bulb:
@@ -55,11 +53,4 @@ Write a function that sorts an array of integers in ascending order using the Qu
 12. Dealer
 Write a function that sorts a deck of cards.
 Author
-Juan Pablo Yepes Tamayo
-GitHub
-Linkedin
-Twitter
-Angello Villegas
-GitHub
-Linkedin
-Twitter
+Ota Okpogo
